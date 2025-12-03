@@ -124,7 +124,7 @@
 
 ---
 
-### Overall Assessment and Summary (approximately 500 characters)
+### Overall Assessment and Summary
 
 Team 2 excellently executed the entire AI project process with the practical topic of gym member churn prediction. In the data preprocessing stage, they perfectly understood data characteristics through systematic EDA and resolved class imbalance and scaling issues using SMOTE and StandardScaler. The creation of 11 domain-based derived features laid the foundation for model performance improvement.
 
